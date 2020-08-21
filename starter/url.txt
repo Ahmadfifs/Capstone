@@ -1,0 +1,1 @@
+https://dev-igs3iufj.eu.auth0.com/authorize?audience=authTest&response_type=token&client_id=GOyqkjWnFqiMpjJ97NzUnxhWkW8dTuj8&redirect_uri=http://localhost:8080/login-result
